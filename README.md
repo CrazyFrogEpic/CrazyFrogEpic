@@ -1,0 +1,3 @@
+- 👋 Hi, I’m CrazyFrog
+- 🌱 I currently program in HTML, CSS, JS, PHP.
+- 📫 You can currently reach me on Discord at CrazyFrog#4308 or by my email at crazyfrog@chemist.com.
