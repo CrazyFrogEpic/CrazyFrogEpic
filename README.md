@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Gabriel H. aka genosmrpg7899.
-- 🌱 I currently program in HTML, CSS, JS, PHP.
+- 🌱 I currently program in JS, PHP, and Python.
 - 📫 You can currently reach me on Discord at genosmrpg7899#6021 or by my email at crazyfrog@chemist.com.
